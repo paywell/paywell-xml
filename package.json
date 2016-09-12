@@ -14,7 +14,10 @@
     "byteskode",
     "paywell",
     "xml",
-    "utilities"
+    "utilities",
+    "parse",
+    "convert",
+    "build"
   ],
   "author": {
     "name": "lykmapipo",

@@ -5,7 +5,7 @@ paywell-xml
 [![Dependency Status](https://img.shields.io/david/paywell/paywell-xml.svg?style=flat)](https://david-dm.org/paywell/paywell-xml)
 [![npm version](https://badge.fury.io/js/paywell-xml.svg)](https://badge.fury.io/js/paywell-xml)
 
-paywell xml utilities
+paywell utilities for parse and build xml
 
 ## Requirements
 - [NodeJS 6.5.0+](https://nodejs.org/en/)
