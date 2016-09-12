@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <name>Cecilia</name>
+    <username>Cecilia.Hamill</username>
+    <avatar>https://s3.amazonaws.com/uifaces/faces/twitter/elliotnolten/128.jpg</avatar>
+    <email>Cecilia.Hamill.Goldner@yahoo.com</email>
+    <dob/>
+    <phone>653-629-2024</phone>
+    <address>
+        <street>Jaskolski Light</street>
+        <suite>Apt. 053</suite>
+        <city>Coleborough</city>
+        <zipcode>28805-5465</zipcode>
+        <geo>
+            <lat>-76.8105</lat>
+            <lng>112.5722</lng>
+        </geo>
+    </address>
+    <website>jarred.biz</website>
+    <company>
+        <name>Rodriguez, Cummerata and Braun</name>
+        <catchPhrase>Triple-buffered radical structure</catchPhrase>
+        <bs>user-centric matrix vortals</bs>
+    </company>
+</root>
